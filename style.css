@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 1120px;
+    margin: 0 auto;
+}
+
+.step-01, tr, td{
+    border: 0px solid black;
+    border-collapse: collapse;
+    padding: 20px 0px;
+    width: 100%;
+    
+}
+
+.row1{
+    background-color: #4b6c20;
+    width: 50%;
+}
+.row2{
+    background-color: green;
+    width: 50%;
+}
+
+.step-02, tr, td{
+    border: 0px solid black;
+    border-collapse: collapse;
+    width: 100%;
+    
+    
+}
+
+.row3{
+    background-color: rgb(241, 226, 18);
+    width: 20%;
+    padding: 30px 0px;
+}
+.row4{
+    background-color: rgb(6, 230, 28);
+    width: 80%;
+    padding: 30px 0px;
+}
+
+
+.step-03, tr, td{
+    border: 0px solid black;
+    border-collapse: collapse;
+    width: 100%;
+
+}
+
+.row5{
+    background-color: rgb(241, 200, 18);
+    width: 100%;
+    padding: 120px 0px;
+}
+
+
+
+.step-04, tr, td{
+    border: 0px solid black;
+    border-collapse: collapse;
+    width: 100%;
+
+}
+
+
+.row6{
+    background-color: rgb(255, 144, 9);
+    width: 100%;
+    padding: 200px 0px;
+    width: 33.33333333333333%;
+}
+.row7{
+    background-color: rgb(255, 9, 9);
+    width: 100%;
+    padding: 200px 0px;
+    width: 33.33333333333333%;
+}
+.row8{
+    background-color: rgb(234, 255, 9);
+    width: 100%;
+    padding: 200px 0px;
+    width: 33.33333333333333%;
+}
+
+
+
+
+.step-05, tr, td{
+    border: 0px solid black;
+    border-collapse: collapse;
+    width: 100%;
+
+}
+
+.row9{
+    background-color: rgba(51, 50, 46, 0.889);
+    width: 100%;
+    padding: 120px 0px;
+}
+
+
+.step-06, tr, td{
+    border: 0px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.row10{
+    background-color: rgba(26, 26, 251, 0.889);
+    width: 50%;
+    padding: 120px 0px;
+}
+
+.row11{
+    background-color: rgba(39, 32, 3, 0.889);
+    width: 50%;
+    padding: 120px 0px;
+}
+
+
+
+.step-07, tr, td{
+    border: 0px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.row12{
+    background-color: rgba(240, 18, 248, 0.889);
+    width: 33%;
+    padding: 210px 0px;
+    
+}
+.row13{
+    background-color: rgba(158, 103, 236, 0.889);
+    width: 33%;
+    padding: 210px 0px;
+    
+}
+.row14{
+    background-color: rgba(68, 218, 226, 0.889);
+    width: 33%;
+    padding: 210px 0px;   
+}
+
+.step-08, tr, td{
+    border: 0px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.row15{
+    background-color: #0097e367;
+    width: 50%;
+}
+
+.row16{
+    background-color: #000000;
+    width: 50%;
+}
